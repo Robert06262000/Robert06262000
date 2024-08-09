@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert Plumb. I have been coding since 2019 and have an associate's degree.
+- 👋 Hi, I’m Robert Plumb. I have been coding since 2019 and have an associate's degree in computer science.
 - 👀 I’m interested in video games, databases, and random number generators.
 - 🌱 I’m currently learning the harder parts of C# and Javascript.
 - 💞️ I’m looking to collaborate on any Windows, database, or game related projects.
